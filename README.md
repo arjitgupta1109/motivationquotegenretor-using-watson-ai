@@ -30,7 +30,7 @@ A full-stack web application that generates personalized motivational quotes bas
 - `axios`, `cors`, `dotenv`, `qs`
 - IBM Watson IAM Authentication + LLaMA-2 API
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 /public
 ├── index.html
